@@ -3,11 +3,10 @@ import { Component, Input } from '@angular/core';
 @Component({
   selector: 'app-square',
   template: `
-    <p>
-      <button>{{ value }}</button>
-    </p>
+      <button width="200px">{{ value }}</button>
   `,
   styles: [
+    
   ]
 })
 export class SquareComponent {
