@@ -1,0 +1,12 @@
+[debug] [2022-02-02T01:32:33.108Z] ----------------------------------------------------------------------
+[debug] [2022-02-02T01:32:33.112Z] Command:       /usr/bin/node /usr/bin/firebase login:ci --no-localhost
+[debug] [2022-02-02T01:32:33.112Z] CLI Version:   10.1.4
+[debug] [2022-02-02T01:32:33.113Z] Platform:      linux
+[debug] [2022-02-02T01:32:33.113Z] Node Version:  v17.4.0
+[debug] [2022-02-02T01:32:33.114Z] Time:          Tue Feb 01 2022 22:32:33 GMT-0300 (Horário Padrão de Brasília)
+[debug] [2022-02-02T01:32:33.114Z] ----------------------------------------------------------------------
+[debug] 
+[info] 
+[info] Visit this URL on any device to log in:
+[info] https://accounts.google.com/o/oauth2/auth?client_id=563584335869-fgrhgmd47bqnekij5i8b5pr03ho849e6.apps.googleusercontent.com&scope=email%20openid%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fcloudplatformprojects.readonly%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Ffirebase%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fcloud-platform&response_type=code&state=490999908&redirect_uri=urn%3Aietf%3Awg%3Aoauth%3A2.0%3Aoob
+[info] 
